@@ -1,4 +1,4 @@
-function onload (){
+function onload (aaa){
     console.log('123');
 }
-onload();
+onload(123);
